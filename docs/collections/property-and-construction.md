@@ -8,7 +8,7 @@ Live property listings and construction records, kept with the practical detail 
 
 ### How it divides
 
-1,090,630 listings sit on the Property shelf — 86.7% of the collection.
+1,090,685 listings sit on the Property shelf — 86.6% of the collection.
 
 ### What you can do with it
 
