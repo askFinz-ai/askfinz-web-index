@@ -8,7 +8,7 @@ Organisations, places and other named things filed as records in their own right
 
 ### How it divides
 
-14,510 entities are filed under Company — 43.3% of those that declare it.
+15,155 entities are filed under Company — 43.5% of those that declare it.
 
 ### What you can do with it
 
