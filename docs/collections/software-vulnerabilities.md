@@ -8,7 +8,7 @@ Disclosed weaknesses in software and the systems built on it, held as records �
 
 ### How it divides
 
-76,675 disclosures are filed under Medium — 45.4% of those that declare it.
+81,080 disclosures are filed under Medium — 45.2% of those that declare it.
 
 ### What you can do with it
 

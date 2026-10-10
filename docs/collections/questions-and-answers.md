@@ -8,7 +8,7 @@ Threads read for their resolution — the accepted answer rather than the longes
 
 ### How it divides
 
-22,445 threads sit on the Q&A and forums shelf — 98.1% of the collection.
+10,151 threads are filed under Stackoverflow — 58.3% of those that declare it.
 
 ### What you can do with it
 
