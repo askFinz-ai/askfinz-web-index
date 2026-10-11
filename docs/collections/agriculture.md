@@ -6,10 +6,6 @@ Agricultural material held as records — crops, yields, practice and the regula
 
 ## Key points
 
-### How it divides
-
-66,460 records are filed under General — 49.5% of those that declare it.
-
 ### What you can do with it
 
 Read production as data — Records rather than articles describing records.

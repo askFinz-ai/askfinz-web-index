@@ -8,7 +8,7 @@ Trademark registrations read from the offices that grant them — searchable by 
 
 ### How it divides
 
-73,780 marks are filed under Registered — 63.3% of those that declare it.
+73,791 marks are filed under Registered — 63.3% of those that declare it.
 
 ### What you can do with it
 
