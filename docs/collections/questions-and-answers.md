@@ -8,7 +8,7 @@ Threads read for their resolution — the accepted answer rather than the longes
 
 ### How it divides
 
-10,151 threads are filed under Stackoverflow — 58.0% of those that declare it.
+10,151 threads are filed under Stackoverflow — 57.9% of those that declare it.
 
 ### What you can do with it
 
