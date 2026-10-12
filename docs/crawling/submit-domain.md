@@ -38,7 +38,7 @@ Some sites aren't a fit — link shorteners, tracking domains, storefront spam a
 
 ## Related
 
-- [askFinz-Crawler · Web crawler documentation](https://askfinz.com/crawler)
+- [askFinzBot · The askFinz search crawler](https://askfinz.com/crawler)
 - [Web safety · the Web Index](https://askfinz.com/web-safety)
 
 ---

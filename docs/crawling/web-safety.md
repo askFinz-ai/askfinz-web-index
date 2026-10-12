@@ -46,7 +46,7 @@ Either direction — something that shouldn't be there, or something missing tha
 
 ## Related
 
-- [askFinz-Crawler · Web crawler documentation](https://askfinz.com/crawler)
+- [askFinzBot · The askFinz search crawler](https://askfinz.com/crawler)
 - [Submit a domain · the Web Index](https://askfinz.com/submit-domain)
 
 ---

@@ -6,14 +6,14 @@ askFinz runs its own index of the web rather than renting results from another s
 
 ## Crawling and web safety
 
-- [askFinz-Crawler · Web crawler documentation](docs/crawling/crawler.md): How askFinz-Crawler behaves, how to identify it in your logs, and how to allow or block it. Documentation for site owners and webmasters.
+- [askFinzBot · The askFinz search crawler](docs/crawling/crawler.md): askFinzBot reads public pages for the askFinz search index. It follows robots.txt, keeps a slow pace, signs every request so you can verify it, and never uses your pages for AI training.
 - [Submit a domain · the Web Index](docs/crawling/submit-domain.md): Suggest a site worth reading. Submitted domains go into the askFinz indexing queue, and you can watch them being read on the live status page.
 - [Web safety · the Web Index](docs/crawling/web-safety.md): How askFinz keeps malware, scams and adult material out of its index without quietly deleting the good web — layered checks and a human override.
 
 ## The web index
 
 - [Our own web index for AI, with sources](docs/web-index/web-index.md): askFinz runs its own real-time index of the web — fed by the browser extension, the desktop app, askFinz OS devices, indexer machines and partner sites.
-- [How the index works](docs/web-index/how-the-index-works.md): askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and storage measured in kilobytes per page.
+- [How the index works](docs/web-index/how-the-index-works.md): askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and about 22.1 KB of storage per page.
 - [The best web index for AI and LLM workflows](docs/web-index/best-web-index-for-ai.md): Most AI products rent someone else's search results. askFinz reads the web itself and answers from a standing index, filed by what each document is.
 - [What is web indexing?](docs/web-index/what-is-web-indexing.md): Web indexing in plain English: crawl, read, store, retrieve. Most indexes store links to pages — askFinz stores what the pages actually say.
 - [Web scraping alternative: index, don't scrape](docs/web-index/vs-web-scraping.md): Scraping charges you per page, every time, and breaks the moment a site redesigns. Indexing is done once, ahead of time, and stays fresh on its own.
@@ -86,4 +86,4 @@ askFinz runs its own index of the web rather than renting results from another s
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-11.
+Generated 2026-10-12.

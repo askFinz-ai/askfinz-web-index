@@ -1,6 +1,6 @@
 # How the index works
 
-askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and storage measured in kilobytes per page.
+askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and about 22.1 KB of storage per page.
 
 **Canonical page:** [https://askfinz.com/how-the-index-works](https://askfinz.com/how-the-index-works)
 
@@ -39,6 +39,10 @@ It is the difference between an index that can afford to grow and one that canno
 ### Does more machinery mean slower answers?
 
 No — the opposite. Reading is spread out and done ahead of time, so by the time you ask a question the work is already finished.
+
+### What decides which pages get in, and where they are filed?
+
+Every page is checked before it goes in: error screens and locked pages stay out, unsafe sites are kept out, and each page is filed in the collection it belongs to. Sonar, the first model from askFinz Model Fab, is coming to that job. It works alongside the checks that already keep the index clean, and takes over only once it has proven better at it.
 
 ## Related
 

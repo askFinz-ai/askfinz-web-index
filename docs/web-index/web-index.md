@@ -64,6 +64,10 @@ The live figures on this page are read from the running system every few seconds
 
 Public pages are reached in the normal course of crawling. To be read directly and kept fresh with priority, become a verified domain partner.
 
+### How is it kept clean?
+
+Pages are checked before they go in: dead ends and unsafe sites stay out, and every page is filed in the right collection. Sonar, the first model built at askFinz Model Fab, is coming to that job, working alongside the checks already in place.
+
 ## Related
 
 - [How the index works](https://askfinz.com/how-the-index-works)

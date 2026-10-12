@@ -1,10 +1,30 @@
-# askFinz-Crawler · Web crawler documentation
+# askFinzBot · The askFinz search crawler
 
-How askFinz-Crawler behaves, how to identify it in your logs, and how to allow or block it. Documentation for site owners and webmasters.
+askFinzBot reads public pages for the askFinz search index. It follows robots.txt, keeps a slow pace, signs every request so you can verify it, and never uses your pages for AI training.
 
 **Canonical page:** [https://askfinz.com/crawler](https://askfinz.com/crawler)
 
 ## Key points
+
+### What askFinzBot looks like in your logs
+
+Every request carries this User-Agent, and it never changes from one request to the next:
+
+### Four rules it never breaks
+
+Reads robots.txt first, and obeys it Before it asks for any page it reads your robots.txt and follows the rules written for askFinzBot, or for everyone if there are none. If your robots.txt cannot be reached because your server is having trouble, it does not crawl at all.
+
+### Blocking or limiting askFinzBot
+
+Add a group to your robots.txt. askFinzBot reads it again at least every hour, so a change takes effect within the hour.
+
+### Signed requests you can check
+
+askFinzBot signs every request using Web Bot Auth, an open standard built on HTTP Message Signatures. Each request carries three headers: Signature-Agent, Signature-Input and Signature.
+
+### askFinz-Crawler and the rest of the family
+
+Besides askFinzBot, parts of askFinz read the web under their own names. Everything below is about those readers, not about askFinzBot.
 
 ### What it looks like from your side
 
@@ -26,25 +46,25 @@ Follows robots.txt When it crawls your site it reads your robots.txt first and f
 
 Our requests reach sites through a privacy layer with rotating exits, so askFinz-Crawler does not come from one fixed IP address. Verify by the User-Agent token above rather than by address.
 
-### Would you rather we read you properly?
-
-Verified domain partners are read directly and kept fresh with priority, instead of waiting to be reached in the ordinary course of crawling. If your content is worth finding, this is the way to make sure it is.
-
-### Where crawled pages go
-
-The crawler is one way content reaches askFinz. What it reads flows into a real-time index that answers questions with citations back to the sites the answers came from.
-
-### Get in touch
-
-For anything about how we read your site — slowing down, stopping, removal, or a dedicated address — email bots@askfinz.ai. For partnerships and everything else, use contact.
-
-### You decide how it gets read
-
-Being read well should never be something that happens to you. Set the pace, feed your pages in directly with priority and real-time freshness, or ask us not to read the site at all — all three are your call, and none of them requires an account.
-
 ## Frequently asked
 
-### Why does the crawler come from different IP addresses?
+### What is askFinzBot for?
+
+It reads public pages so they can be found through askFinz search. When an answer draws on your page, it names your page and links to it.
+
+### Is my content used to train AI models?
+
+No. Pages askFinzBot reads are marked when they are stored and are excluded from every training data set we build. They are used only to answer searches, with a link back to you.
+
+### How do I block it?
+
+Add a group for askFinzBot to your robots.txt with "Disallow: /". It reads robots.txt again at least every hour, so a change takes effect within the hour. You can also block just some folders.
+
+### How do I check a request really came from you?
+
+Every request is signed using the Web Bot Auth standard (HTTP Message Signatures). Our public key is published in our key directory, and security services that support the standard check it automatically.
+
+### Why does askFinz-Crawler come from different IP addresses?
 
 Its connection routes through a privacy layer with rotating exits, so there is no single fixed address to allow-list. Match on the User-Agent instead. If your setup genuinely requires IP allow-listing, contact us and we can arrange a dedicated address.
 

@@ -8,7 +8,7 @@ The askFinz index is kept as separate collections — research, law, standards, 
 
 ### What's held, and what it's for
 
-30 collections, a page each — filed by what each one holds rather than by where it was found.
+30 collections, a page each — filed by what each one holds rather than by where it was found. Filing each page from the open web on the right shelf is the job Sonar, askFinz's own model, is coming to.
 
 ### We don't scrape a worse copy of something published properly
 
