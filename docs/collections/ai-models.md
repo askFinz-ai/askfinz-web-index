@@ -8,7 +8,7 @@ Models published for others to use, held as records — so one can be found by w
 
 ### How it divides
 
-2,489 models are filed under Transformers — 39.4% of those that declare it.
+2,637 models are filed under Transformers — 33.4% of those that declare it.
 
 ### What you can do with it
 
