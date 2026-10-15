@@ -8,7 +8,7 @@ Models published for others to use, held as records — so one can be found by w
 
 ### How it divides
 
-2,637 models are filed under Transformers — 33.4% of those that declare it.
+3,118 models are filed under pyTorch — 31.3% of those that declare it.
 
 ### What you can do with it
 
