@@ -8,7 +8,7 @@ Granted patents and published applications from more than a hundred patent offic
 
 ### How it divides
 
-138,332 publications are filed under United States — 36.5% of those that declare it.
+138,340 publications are filed under United States — 36.4% of those that declare it.
 
 ### What you can do with it
 
