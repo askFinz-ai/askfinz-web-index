@@ -8,7 +8,7 @@ What a programme actually teaches, read from the institution rather than a direc
 
 ### How it divides
 
-17,662 courses are filed under Personal development — 27.1% of those that declare it.
+17,663 courses are filed under Personal development — 27.1% of those that declare it.
 
 ### What you can do with it
 
