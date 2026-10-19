@@ -8,7 +8,7 @@ Registered studies kept as registry records — with phase, sponsor and recruiti
 
 ### How it divides
 
-977,540 records sit on the Medical knowledge shelf — 93.4% of the collection.
+977,653 records sit on the Medical knowledge shelf — 93.4% of the collection.
 
 ### What you can do with it
 
