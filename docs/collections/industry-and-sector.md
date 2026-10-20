@@ -8,7 +8,7 @@ Trade bodies and companies explaining their own market — where segment names a
 
 ### How it divides
 
-471,573 documents are filed under Aerospace & defence — 20.0% of those that declare it.
+471,559 documents are filed under Aerospace & defence — 20.0% of those that declare it.
 
 ### What you can do with it
 
@@ -17,10 +17,6 @@ Use the sector's own vocabulary — Segment definitions come from the people who
 ### Filed to answer
 
 How does this industry divide itself into segments, and who decided those names?
-
-### Written to
-
-A new record is a newly published document. A revision replaces the text on the record that already exists rather than adding a second one, so the count does not double.
 
 ### Where it stops
 
