@@ -8,7 +8,7 @@ Ordinary web pages, read and kept as pages. The collection everything else is fi
 
 ### How it divides
 
-No field on 9,060,284 pages takes more than one recurring value worth charting, so nothing is broken out here. A breakdown needs two values to compare; one band would only reprint the count above.
+40,156,194 passages are filed under General — 56.9% of those that declare it.
 
 ### What you can do with it
 
