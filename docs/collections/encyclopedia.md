@@ -6,10 +6,6 @@ The settled account of a subject, read from the maintained entry rather than a c
 
 ## Key points
 
-### How it divides
-
-449,591 entries are filed under Wikimedia Foundation — 100.0% of those that declare it.
-
 ### What you can do with it
 
 Get the settled position first — The accepted account leads, rather than the loudest argument about it.
