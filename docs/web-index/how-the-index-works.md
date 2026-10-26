@@ -1,6 +1,6 @@
 # How the index works
 
-askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and about 24.6 KB of storage per page.
+askFinz reads the web itself and keeps its own index — three stages and a head start, a distributed fleet, and storage measured in kilobytes per page.
 
 **Canonical page:** [https://askfinz.com/how-the-index-works](https://askfinz.com/how-the-index-works)
 
