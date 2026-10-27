@@ -8,7 +8,7 @@ Share dealings disclosed by the people closest to a company, held as records. Th
 
 ### How it divides
 
-23,527 transactions are filed under United States — 93.6% of those that declare it.
+23,799 transactions are filed under United States — 93.4% of those that declare it.
 
 ### What you can do with it
 
