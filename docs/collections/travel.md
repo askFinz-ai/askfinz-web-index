@@ -8,7 +8,7 @@ Routes, stays and activities read from operators, with dates and availability ke
 
 ### How it divides
 
-267,108 listings sit on the Things to do shelf — 77.3% of the collection.
+267,258 listings sit on the Things to do shelf — 77.2% of the collection.
 
 ### What you can do with it
 
